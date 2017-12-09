@@ -17,5 +17,5 @@ print_one("print_one")
 
 def print_none():
 	print "I got nothin"
-print print_none()
+print_none()
 
